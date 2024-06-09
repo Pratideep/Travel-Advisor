@@ -21,3 +21,7 @@ In this video, you'll learn:
 
 Setup: run ```yarn i && yarn start``` to start the development server
 # Travel-Advisor-React
+
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRaffaeleb003%2FReact-Travel-Advisor&psig=AOvVaw0U_bIUMOyBwLXbqwxR4Yh_&ust=1718014439177000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiJ9tSkzoYDFQAAAAAdAAAAABAE)
+
